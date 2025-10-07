@@ -1,0 +1,18 @@
+Variables, loops, conditionals, arrays
+
+
+So the primitive data types are likely the same of the c++ along other similar data types which are ,derived(Array,Pointer,Referenve,Function);
+
+There are also a data type which can be determined or declared by the user only . That means it is not prewritten or declared as it is for other data types like primitives are . (struct,class,enum,union)
+
+
+There are some of them which only works in special ocaassion . Like I am about to create a program where user count would be started from the 0 . And it can not excced to negative . then we can use usigned int like ;
+
+unsigned int =1000;
+const = used in the constant variable where the variable's data stays constent.
+long = To store the long integar numbers;
+
+auto = No need to determine or set the variable type . The compiler would auto detect the data type .
+
+Pointer = The pointer is used to address the address of another variable or simmilar types; 
+
